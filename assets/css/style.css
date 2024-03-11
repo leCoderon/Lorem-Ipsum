@@ -201,7 +201,7 @@ footer .footer-top {
 }
 
 @media screen and (max-width: 290px) {
-    .discount-box h2 {
+   #hero .discount-box h2 {
         font-size: 20px;
     }
 }
