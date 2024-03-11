@@ -13,7 +13,7 @@ Découvrez la magie de la fabrication artisanale de délices sur notre site web,
 
 ## Découvrez nos Délices
 
-Explorez notre [site web](lien_vers_site) pour plonger dans notre gamme de délices imaginaires. Du sucré au salé, Lorem Ipsum vous invite à un voyage culinaire où chaque fonctionnalité du site est conçue pour vous offrir une expérience aussi délicieuse que nos créations, peu importe l'appareil que vous utilisez.
+Explorez notre [site web](https://lecoderon.github.io/Lorem-Ipsum/) pour plonger dans notre gamme de délices imaginaires. Du sucré au salé, Lorem Ipsum vous invite à un voyage culinaire où chaque fonctionnalité du site est conçue pour vous offrir une expérience aussi délicieuse que nos créations, peu importe l'appareil que vous utilisez.
 
 ![preview img](/preview.png)
 ## Comment Contribuer
