@@ -15,7 +15,7 @@ Découvrez la magie de la fabrication artisanale de délices sur notre site web,
 
 Explorez notre [site web](https://lecoderon.github.io/Lorem-Ipsum/) pour plonger dans notre gamme de délices imaginaires. Du sucré au salé, Lorem Ipsum vous invite à un voyage culinaire où chaque fonctionnalité du site est conçue pour vous offrir une expérience aussi délicieuse que nos créations, peu importe l'appareil que vous utilisez.
 
-![preview img](/preview.png)
+![preview img](/preview.gif)
 ## Comment Contribuer
 
 1. **Fork :** Fork ce dépôt sur GitHub.
